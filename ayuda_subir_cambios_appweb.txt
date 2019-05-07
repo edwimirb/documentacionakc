@@ -1,0 +1,4 @@
+ para subir los cambios al aplicativo web
+
+*hacer commit se desselecciona el contex y el web y se da continuar.
+*colocarlo en server y aceptar

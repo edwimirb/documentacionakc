@@ -1,0 +1,45 @@
+abrir git bash
+pwd --> ruta
+cd cambiar de directorio
+ls -> listar archivos
+git clone  ruta  -> clonar una rama   .. desde el stc le doy importar proyecto
+git status -> estado de archivos
+git branch sicma
+git checkout sicma-> cambiarse a la rama
+git add . -> adicionar archivos se colocan en verde, antes de estos estan como en rojo
+git commit -m "cambios cobro personalizado, ttestigos liliana y reinicidentes en contir"
+git push origin sicmagisgit
+
+git checkout -- src/main/resources/app-context-db.xml devolver un archivo ene stado original sin hacer seguimiento
+
+
+pagina
+
+https://gitlab.akc.co/
+
+para webapps
+https://gitlab.akc.co/AKC/AkcJava_WebApps.git
+
+para reversar un archivo con commit ya realizado
+se busca el numero de revision
+ git log --  src/main/resources/app-context-db.xml
+y sereversa a esa revision
+   git checkout 05d48e17db0329b815bfb5659b6b362e6888e2dd -- src/main/resources/app-context-db.xml
+
+
+
+
+
+
+entra por putty
+
+10.0.0.33
+akcadmin
+yy la clave
+se entra a nodejs
+se entra akcturnos4 y se arranca forever start -a app.js
+
+
+se busca 
+
+\\\\10.0.0.8\\solin\\masivocontir\\

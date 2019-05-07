@@ -1,0 +1,27 @@
+Ingresar a al explorador de windows a la siguiente direccion con usuario de 
+dominio ej:edwin.miranda 
+	   pss *****
+
+Explorador de windows: ftp.akc.co 
+Desde navegador(MOZILLA-CHROME) ftp://ftp.akc.co
+
+Despues de ingresar alli , descargar el archivo "Akcmobile.apk" al escritorio
+en una carpeta o donde desee colocarlo.
+
+1.copie el archivo "Akcmobile.apk".
+2.busque la carpeta Download del telefono despues de haberlo conectado a el
+  computador y haberlo reconocido como unidad de almacenamiento.
+3.pegue el archivo copiado en la carpeta del 2do punto osea en Download del 
+  telefono.
+4.desconecte el telefono del computador, busque en los archivos del telefono
+  carpeta Download donde fue pegado el archivo .apk.
+5. dar clic o tocar el archivo para comenzar instalacion , en caso de salir mensaje de 
+  configuracion , ir a configurar y habilitar origenes desconocidos.
+6.dar clic a instalacion y verificar que el icono aya quedado en el menu del telefono
+  e ingresar y probar con usuario de dominio.
+
+
+ojo: para las versiones android 8 que si se descarga por la play store, despues
+de descargarla como akcmobile, se busca en configuraciones del telefono, la opcion
+aplicaciones, luego ir a permisos y habilitar todos los permisos, luego validas que
+ingrese y te logueas con el usuario de dominio.

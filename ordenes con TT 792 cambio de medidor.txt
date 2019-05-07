@@ -1,0 +1,13 @@
+REUNION DE ORDEN  TIPO DE TRABAJO 792 cambio de 
+medidor;
+
+se define que las ordenes con el tipo de trabajo 792
+no se deben cerrar con fallo, solo podra cerrarla quien
+la crea en este caso la funcionaria rubby jauregui
+, se deben utilizar ordenes de apoyo para que lleve 
+una trazabilidad.
+se debe solo dejar una opcion de con exito y 
+no de fallo.
+
+attributo en orden de apoyo: 
+causal de no atencion y otro observacion

@@ -1,0 +1,10 @@
+CONFIGURACION DE ATRIBUTOS
+--------------------------
+1.GEMAT se crea el atributo
+2.GEMGA se asocia el atributo
+3.ORCOR se verifica si tiene asosasiada la consulta sino se agrega
+
+-- datos a ingresar
+-- se crea el id 500735 en gemat
+-- Opcion 4 - Personal
+-- clase:valores necesarios en la legalizacion de ordenes de trabajo

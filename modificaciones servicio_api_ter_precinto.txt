@@ -1,0 +1,26 @@
+
+		@RequestMapping(value = "datamap/precintoHistorico/{contrato}/{precinto}/{usuario}",
+						method = RequestMethod.GET 
+						)
+		@ResponseStatus(HttpStatus.OK)
+		public @ResponseBody  Long almacenarPrecinto(@PathVariable("contrato") Long contrato, @PathVariable("precinto") String precinto, @PathVariable("usuario") String usuario) throws SQLException, ParseException{
+		
+		       Long resultadoT;
+			   java.util.Date fecha = new Date();
+			  
+			  TerHistorico ter=new TerHistorico();
+			  ter.setHistfein(fecha);
+			  ter.setHistsusc(contrato);
+			  ter.setHistprec(precinto);
+			  ter.setHistuser(usuario);
+			  
+			  resultadoT= terHistoricoService.guardar(ter);
+			  if(resultadoT>0){
+				  terHistoricoService.actualizarTerPresinto(contrato, precinto);
+			  }
+			 return resultadoT;
+
+			}
+buscar el archivo TerHistoricoRepositoryImpl.java
+sql= getSession().createSQLQuery("UPDATE AKCWWW.TER_PRECINTO SET 
+TER_PRECINTO.PRECPREC='"+precinto+"',TER_PRECINTO.PRECFERE=sysdate  WHERE TER_PRECINTO.PRECSUSC="+contrato).executeUpdate();

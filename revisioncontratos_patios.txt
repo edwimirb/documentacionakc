@@ -1,0 +1,25 @@
+ciclo 1-patios
+
+12749- verificar acometida-tiene anomalia 
+1316 - verificar acometida-tiene anomalia 
+1373 - verificar acometida-tiene anomalia
+434  - verificar acometida-tiene anomalia
+622  - verificar acometida-tiene anomalia
+54004- verificar acometida-tiene anomalia-suspendido
+54461- ajustar el metodo de variacion a 1.variacion acueducto
+
+ciclo 3
+
+15453-realizar recuperacion manual se actualiza causal de lectura
+2283- realizar recuperacion manual se actualiza causal de lectura
+2828- realizar recuperacion manual se actualiza causal de lectura
+2881- realizar recuperacion manual se actualiza causal de lectura
+3256- realizar recuperacion manual se actualiza causal de lectura
+53174-realizar recuperacion manual se actualiza causal de lectura
+55097-ajustar el metodo de variacion a 1.variacion acueducto
+54996-ajustar el metodo de variacion a 1.variacion acueducto
+55071-ajustar el metodo de variacion a 1.variacion acueducto
+54528-ajustar el metodo de variacion a 1.variacion acueducto
+55153-ajustar el metodo de variacion a 1.variacion acueducto
+
+

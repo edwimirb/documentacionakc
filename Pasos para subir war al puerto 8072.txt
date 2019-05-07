@@ -1,0 +1,15 @@
+Subir War al 8072 pruebas ordenes
+Pasos:
+1. Escritorio Remoto
+2. Direccion: 10.0.5.24 pass: AdmiN9876Akc
+3. Se detiene el servicio del Tomcat
+4. Se Ingresa a la Carpeta del Tomcat y se hace copia del WebApp.war 
+   que ya esta creado.
+5. Se copia war a subir en compartida para hacer el copy -paste
+6. Despues de copiado se arranca el Servicio del Tomcat Nuevamente.
+
+
+NOTA: 
+
+C:\Tomcat7Hugo8011FacPro\webapps\akcweb\js\base y cambiar la linea #10 var url = 'http://10.0.5.24:8111/akcweb/servlet/' del archivo "Apps.js"
+que corresponde a la ruta del ambiente de pruebas o productivo segun el caso y reinicamos nuevamente el servicio.

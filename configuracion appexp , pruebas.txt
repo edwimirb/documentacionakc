@@ -1,0 +1,9 @@
+configuracion:
+
+se modifica tres archivos para realizar pruebas en appexp.
+
+*apps.js
+*apps-context-db.xml --> se comentarea kpitallb
+*apisqlconsumer.java
+
+url pruebas: pruebas.akc.co:8089/api/servelt

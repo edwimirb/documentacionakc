@@ -1,0 +1,8 @@
+13552 - AJUSTE CONSULTA VENSER023	
+Buenos días
+Se requiere llevar a cabo ajustes a la consulta VENSER023 
+(SOLICITUDES POR FECHA DE REGISTRO), con el fin de que se observe el 
+valor total por ejecución de acometida,si la orden corresponde 
+a ejecución de acometida o legalización 
+del servicio, la fecha de asignación de la orden de trabajo 2000, 652 Y 327. 
+Para mayor información comunicarse con Licet Suaza (Ventas).
